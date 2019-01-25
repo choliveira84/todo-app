@@ -1,3 +1,3 @@
 # todo-app
 
-criado em React.
+creado em Reac com Redux.

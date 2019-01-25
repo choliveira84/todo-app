@@ -1,28 +1,16 @@
 {
   "todos": [
     {
-      "description": "Abastecer o carro",
-      "done": true,
-      "createdAt": "2019-01-12T03:43:11.647Z",
-      "id": 1
-    },
-    {
       "description": "Mais uma tarefa",
       "done": false,
       "createdAt": "2019-01-12T03:52:28.235Z",
       "id": 2
     },
     {
-      "description": "Cortar o cabelo",
+      "description": "Teste",
       "done": false,
-      "createdAt": "2019-01-12T03:55:50.725Z",
+      "createdAt": "2019-01-20T16:22:54.699Z",
       "id": 3
-    },
-    {
-      "description": "",
-      "done": false,
-      "createdAt": "2019-01-16T15:48:24.388Z",
-      "id": 4
     }
   ]
 }
